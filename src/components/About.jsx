@@ -1,9 +1,10 @@
 import appScreen from '../img/app-screen1.svg';
+import shapeBg from '../img/shape.svg';
 
 const About = () => {
     return ( 
         <>
-            <div className="w-full max-w-[1600px] mx-auto bg-auto bg-no-repeat object-cover bg-center bg-[url('../src/img/shape.svg')] p-10 md:p-24 text-center">
+            <div className="w-full max-w-[1600px] mx-auto bg-auto bg-no-repeat object-cover bg-center p-10 md:p-24 text-center" style={{backgroundImage: `url(${shapeBg})`}}>
                 <h2 className="font-bold italic text-[25px] md:text-[45px] text-primary-300 mb-4 md:mt-4">
                     We're CaseCraft
                 </h2>
