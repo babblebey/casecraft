@@ -16,7 +16,7 @@ const WhyCasecraft = () => {
             </div>
             <div className="w-full md:w-fit">
                 <img src={airpod} alt="Airpod" className="w-full" />
-                <p className="italic text-sm text-center relative -top-8 md:-top-10">Most sold of the month</p>
+                <p className="italic text-sm text-center relative -top-6 md:-top-10">Most sold of the month</p>
             </div>
         </div>
     );
