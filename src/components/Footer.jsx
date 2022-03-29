@@ -29,8 +29,11 @@ const Footer = () => {
                             @babblebey
                         </a>
                         from a UI Design by
-                        <a href="https://dribbble.com/Abdulldsgnr" className="text-secondary mx-1" target="_blank">
+                        <a href="https://dribbble.com/shots/13793839-CaseCraft-Landing-Kit" className="text-secondary mx-1" target="_blank">
                             @abdulldsgnr
+                        </a>
+                        <a href="https://github.com/babblebey/casecraft" className="text-secondary underline mx-1" target="_blank">
+                            View Source on GitHub
                         </a>
                     </p>
                 </div>
