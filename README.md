@@ -6,6 +6,8 @@
   </a>
 </p>
 
+![Casecraft Screenshot](https://i.ibb.co/cvT2qNs/screenshot-casecraft-bey-netlify-app-2022-06-15-14-56-34.png)
+
 > A React x TailwindCSS Project I built on Day 65 of #100daysofcode challenge made from a UI Design by [@abdulldsgnr](https://dribbble.com/shots/13793839-CaseCraft-Landing-Kit)
 
 ### ✨ [Live Preview](https://casecraft-bey.netlify.app/)
